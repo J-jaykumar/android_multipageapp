@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <tabs>
+        <tab
+            drawable="@drawable/ic_home"
+            text="@string/home" />
+
+        <tab
+            drawable="@drawable/ic_about"
+            text="@string/about" />
+
+        <tab
+            drawable="@drawable/ic_portfoilo"
+            text="@string/portfolio" />
+
+        <tab
+            drawable="@drawable/ic_services"
+            text="@string/service" />
+
+
+
+
+
+
+
+
+    </tabs>
+</PreferenceScreen>

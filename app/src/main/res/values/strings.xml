@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Amplifier Electronics</string>
+
+    <string name="home">home</string>
+    <string name="about">about</string>
+    <string name="service">service</string>
+    <string name="portfolio">portfolio</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Logo">AMPLIFIER ELECTRONICS</string>
+    <string name="subtitle"><b> We have got what you need! </b></string>
+    <string name="description">
+        "An embedded system combines mechanical, electrical, and chemical components along with a computer, hidden inside, to perform a single dedicated purpose.\n"
+        "There are more computers on this planet than there are people, and most of these computers are single-chip microcontrollers that are the brains of an embedded system.\n"
+        "Embedded systems are a ubiquitous component of our everyday lives."
+        "We interact with hundreds of tiny computers every day that are embedded into our houses, our cars, our bridges, our toys, and our work."
+        "As our world has become more complex, so have the capabilities of the microcontrollers embedded into our devices."
+        "Therefore the world needs a trained workforce to develop and manage products based on embedded microcontrollers."
+        "Embedded system is the one the leading technology."
+        "In today’s modern world we find 95% products are based on embedded systems."
+        "So the goal of <b> Amplifier Electronics Pvt. Ltd. </b> is to make embedded system easier for everyone and develop each product on embedded systems.
+        "So with this goal amplifier electronics has found in 2017, since that we are working hard to make product development affordable to everyone."
+        <b> "We believe in to amplify your ambitions " </b></string>
+
+
+</resources>
